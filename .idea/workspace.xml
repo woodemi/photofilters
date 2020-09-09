@@ -1,36 +1,476 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="main.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/main.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
   </component>
-  <component name="ToolWindowManager">
-    <editor active="true" />
-    <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-    </layout>
+  <component name="ChangeListManager">
+    <list default="true" id="20085c99-3fdf-4931-adc3-12e563e56c16" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/AddictiveColorSubFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/AddictiveColorSubFilter/AddictiveColorSubFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/AddictiveColorSubFilter/apply.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/AddictiveColorSubFilter/blue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/AddictiveColorSubFilter/green.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/AddictiveColorSubFilter/red.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/BrightnessSubFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/BrightnessSubFilter/BrightnessSubFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/BrightnessSubFilter/apply.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/BrightnessSubFilter/brightness.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/ContrastSubFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/ContrastSubFilter/ContrastSubFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/ContrastSubFilter/apply.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/ContrastSubFilter/contrast.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/Filter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/Filter/Filter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/Filter/apply.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/Filter/hashCode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/Filter/name.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/Filter/noSuchMethod.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/Filter/operator_equals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/Filter/runtimeType.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/Filter/subFilters.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/Filter/toString.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/GrayScaleSubFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/GrayScaleSubFilter/GrayScaleSubFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/GrayScaleSubFilter/apply.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/HueRotationSubFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/HueRotationSubFilter/HueRotationSubFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/HueRotationSubFilter/apply.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/HueRotationSubFilter/degrees.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/InvertSubFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/InvertSubFilter/InvertSubFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/InvertSubFilter/apply.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/RGBOverlaySubFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/RGBOverlaySubFilter/RGBOverlaySubFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/RGBOverlaySubFilter/apply.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/RGBOverlaySubFilter/blue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/RGBOverlaySubFilter/green.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/RGBOverlaySubFilter/red.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/RGBOverlaySubFilter/scale.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/RGBScaleSubFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/RGBScaleSubFilter/RGBScaleSubFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/RGBScaleSubFilter/apply.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/RGBScaleSubFilter/blue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/RGBScaleSubFilter/green.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/RGBScaleSubFilter/red.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/SaturationSubFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/SaturationSubFilter/SaturationSubFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/SaturationSubFilter/apply.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/SaturationSubFilter/saturation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/SepiaSubFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/SepiaSubFilter/SepiaSubFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/SepiaSubFilter/apply.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/SepiaSubFilter/sepia.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/SubFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/SubFilter/SubFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/SubFilter/apply.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/SubFilter/hashCode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/SubFilter/noSuchMethod.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/SubFilter/operator_equals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/SubFilter/runtimeType.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/SubFilter/toString.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_filters/filters_filters-library.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/AddictiveBlueFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/AddictiveBlueFilter/AddictiveBlueFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/AddictiveRedFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/AddictiveRedFilter/AddictiveRedFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/AdenFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/AdenFilter/AdenFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/AmaroFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/AmaroFilter/AmaroFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/AshbyFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/AshbyFilter/AshbyFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/BrannanFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/BrannanFilter/BrannanFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/BrooklynFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/BrooklynFilter/BrooklynFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/CharmesFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/CharmesFilter/CharmesFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/ClarendonFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/ClarendonFilter/ClarendonFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/CremaFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/CremaFilter/CremaFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/DogpatchFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/DogpatchFilter/DogpatchFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/EarlybirdFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/EarlybirdFilter/EarlybirdFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/F1977Filter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/F1977Filter/F1977Filter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/GinghamFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/GinghamFilter/GinghamFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/GinzaFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/GinzaFilter/GinzaFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/HefeFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/HefeFilter/HefeFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/HelenaFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/HelenaFilter/HelenaFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/HudsonFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/HudsonFilter/HudsonFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/InkwellFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/InkwellFilter/InkwellFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/JunoFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/JunoFilter/JunoFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/KelvinFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/KelvinFilter/KelvinFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/LarkFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/LarkFilter/LarkFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/LoFiFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/LoFiFilter/LoFiFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/LudwigFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/LudwigFilter/LudwigFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/MavenFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/MavenFilter/MavenFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/MayfairFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/MayfairFilter/MayfairFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/MoonFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/MoonFilter/MoonFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/NashvilleFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/NashvilleFilter/NashvilleFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/NoFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/NoFilter/NoFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/PerpetuaFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/PerpetuaFilter/PerpetuaFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/ReyesFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/ReyesFilter/ReyesFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/RiseFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/RiseFilter/RiseFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/SierraFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/SierraFilter/SierraFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/SkylineFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/SkylineFilter/SkylineFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/SlumberFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/SlumberFilter/SlumberFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/StinsonFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/StinsonFilter/StinsonFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/SutroFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/SutroFilter/SutroFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/ToasterFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/ToasterFilter/ToasterFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/ValenciaFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/ValenciaFilter/ValenciaFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/VesperFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/VesperFilter/VesperFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/WaldenFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/WaldenFilter/WaldenFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/WillowFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/WillowFilter/WillowFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/XProIIFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/XProIIFilter/XProIIFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/filters_preset_filters-library.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/filters_preset_filters/presetFitersList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/photofilters/photofilters-library.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/static-assets/URI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/static-assets/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/static-assets/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/static-assets/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/static-assets/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/static-assets/github.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/static-assets/highlight.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/static-assets/play_button.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/static-assets/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/static-assets/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/static-assets/sdk_footer_text.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/static-assets/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/static-assets/typeahead.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_convolution_kernels/ConvolutionKernel-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_convolution_kernels/ConvolutionKernel/ConvolutionKernel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_convolution_kernels/ConvolutionKernel/bias.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_convolution_kernels/ConvolutionKernel/convolution.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_convolution_kernels/ConvolutionKernel/hashCode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_convolution_kernels/ConvolutionKernel/noSuchMethod.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_convolution_kernels/ConvolutionKernel/operator_equals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_convolution_kernels/ConvolutionKernel/runtimeType.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_convolution_kernels/ConvolutionKernel/toString.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_convolution_kernels/blurKernel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_convolution_kernels/brightenKernel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_convolution_kernels/coloredEdgeDetectionKernel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_convolution_kernels/edgeDetectionHardKernel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_convolution_kernels/edgeDetectionMediumKernel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_convolution_kernels/embossKernel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_convolution_kernels/identityKernel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_convolution_kernels/sharpenKernel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_convolution_kernels/utils_convolution_kernels-library.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_image_utils/addictiveColor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_image_utils/brightness.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_image_utils/clampPixel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_image_utils/colorOverlay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_image_utils/contrast.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_image_utils/convolute.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_image_utils/grayscale.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_image_utils/hsvToRgb.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_image_utils/hueRotation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_image_utils/hueSaturation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_image_utils/invert.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_image_utils/rgbScale.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_image_utils/rgbToHsv.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_image_utils/saturation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_image_utils/sepia.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/utils_image_utils/utils_image_utils-library.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilter-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilter/PhotoFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilter/build.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilter/createElement.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilter/debugDescribeChildren.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilter/debugFillProperties.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilter/filename.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilter/filter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilter/fit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilter/hashCode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilter/image.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilter/key.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilter/loader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilter/noSuchMethod.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilter/operator_equals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilter/runtimeType.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilter/toDiagnosticsNode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilter/toString.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilter/toStringDeep.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilter/toStringShallow.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilter/toStringShort.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilterSelector-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilterSelector/PhotoFilterSelector.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilterSelector/createElement.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilterSelector/createState.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilterSelector/debugDescribeChildren.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilterSelector/debugFillProperties.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilterSelector/filename.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilterSelector/filters.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilterSelector/fit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilterSelector/hashCode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilterSelector/image.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilterSelector/key.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilterSelector/loader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilterSelector/noSuchMethod.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilterSelector/operator_equals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilterSelector/runtimeType.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilterSelector/toDiagnosticsNode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilterSelector/toString.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilterSelector/toStringDeep.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilterSelector/toStringShallow.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/PhotoFilterSelector/toStringShort.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/applyFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/buildThumbnail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/api/widgets_photo_filter/widgets_photo_filter-library.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/java/com/skkallayath/photofiltersexample/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/assets/images/gifloader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/1977.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/AddictiveBlue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/AddictiveRed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Aden.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Amaro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Ashby.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Brannan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Brooklyn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Charmes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Clarendon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Crema.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Dogpatch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Earlybird.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Gingham.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Ginza.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Hefe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Helena.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Hudson.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Inkwell.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Juno.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Kelvin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Lark.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Lo-Fi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Ludwig.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Maven.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Mayfair.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Moon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Nashville.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/No Filter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Perpetua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Reyes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Rise.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Sierra.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Skyline.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Slumber.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Stinson.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Sutro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Toaster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Valencia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Vesper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Walden.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/Willow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/X-Pro II.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/convolution/Blur.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/convolution/Colored Edge Detection.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/convolution/Edge Detection Hard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/convolution/Edge Detection Medium.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/convolution/Emboss.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/convolution/Guassian 3x3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/convolution/Guassian 5x5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/convolution/High Pass 3x3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/convolution/Identity.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/convolution/Low Pass 3x3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/convolution/Low Pass 5x5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/convolution/Mean 3x3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/convolution/Mean 5x5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/convolution/Sharpen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleimages/screenshot.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/filters/color_filters.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/filters/color_filters.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/filters/convolution_filters.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/filters/filters.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/filters/filters.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/filters/image_filters.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/filters/image_filters.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/filters/preset_filters.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/photofilters.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/photofilters.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/convolution_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/custom_filters_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/photofilters_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_utils.dart" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <option name="show-excluded-files" value="false" />
-      </pane>
-    </panes>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hGgS89NC8QvGj6kkuOo25vNghX" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/filters" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/example/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20085c99-3fdf-4931-adc3-12e563e56c16" name="Default Changelist" comment="" />
+      <created>1599642840336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599642840336</updated>
+      <workItem from="1599642847332" duration="611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
